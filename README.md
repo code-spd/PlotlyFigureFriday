@@ -1,0 +1,3 @@
+Plotly Figure Friday submissions...
+
+'tis a work in progress

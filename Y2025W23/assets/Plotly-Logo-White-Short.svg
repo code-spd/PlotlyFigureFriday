@@ -1,0 +1,243 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="Layer_1"
+   data-name="Layer 1"
+   viewBox="0 0 74 74"
+   version="1.1"
+   sodipodi:docname="Plotly-Logo-White-Short.svg"
+   width="74"
+   height="74"
+   inkscape:version="1.2.2 (b0a8486541, 2022-12-01)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview68"
+     pagecolor="#505050"
+     bordercolor="#ffffff"
+     borderopacity="1"
+     inkscape:showpageshadow="0"
+     inkscape:pageopacity="0"
+     inkscape:pagecheckerboard="1"
+     inkscape:deskcolor="#505050"
+     showgrid="false"
+     inkscape:zoom="9.6251974"
+     inkscape:cx="37.090149"
+     inkscape:cy="39.791392"
+     inkscape:window-width="1920"
+     inkscape:window-height="1048"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Layer_1" />
+  <defs
+     id="defs9">
+    <style
+       id="style2">
+      .cls-1 {
+        fill: url(#linear-gradient);
+      }
+
+      .cls-1, .cls-2, .cls-3 {
+        stroke-width: 0px;
+      }
+
+      .cls-2 {
+        fill: #8c99cd;
+      }
+
+      .cls-3 {
+        fill: #fff;
+      }
+    </style>
+    <linearGradient
+       id="linear-gradient"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999"
+       gradientTransform="translate(147,-240)"
+       gradientUnits="userSpaceOnUse">
+      <stop
+         offset="0"
+         stop-color="#ff2c6d"
+         id="stop4" />
+      <stop
+         offset="1"
+         stop-color="#7fe4ff"
+         id="stop6" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient274"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(147,-240)"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient276"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(147,-240)"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient278"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(147,-240)"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient280"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(147,-240)"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient282"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(147,-240)"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linear-gradient"
+       id="linearGradient284"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(147,-240)"
+       x1="-100.13"
+       y1="276.89999"
+       x2="-42.130001"
+       y2="276.89999" />
+  </defs>
+  <g
+     id="g272"
+     transform="translate(-38.78,-16.370001)">
+    <g
+       id="g39">
+      <g
+         id="g23">
+        <circle
+           class="cls-2"
+           cx="84.160004"
+           cy="45.189999"
+           r="4.1399999"
+           id="circle11" />
+        <circle
+           class="cls-2"
+           cx="100.73"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle13" />
+        <circle
+           class="cls-2"
+           cx="84.160004"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle15" />
+        <circle
+           class="cls-2"
+           cx="67.589996"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle17" />
+        <circle
+           class="cls-2"
+           cx="51.02"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle19" />
+        <circle
+           class="cls-2"
+           cx="51.02"
+           cy="45.189999"
+           r="4.1399999"
+           id="circle21" />
+      </g>
+      <g
+         id="g37">
+        <circle
+           class="cls-1"
+           cx="84.160004"
+           cy="45.189999"
+           r="4.1399999"
+           id="circle25"
+           style="fill:url(#linearGradient274)" />
+        <circle
+           class="cls-1"
+           cx="100.73"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle27"
+           style="fill:url(#linearGradient276)" />
+        <circle
+           class="cls-1"
+           cx="84.160004"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle29"
+           style="fill:url(#linearGradient278)" />
+        <circle
+           class="cls-1"
+           cx="67.589996"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle31"
+           style="fill:url(#linearGradient280)" />
+        <circle
+           class="cls-1"
+           cx="51.02"
+           cy="28.610001"
+           r="4.1399999"
+           id="circle33"
+           style="fill:url(#linearGradient282)" />
+        <circle
+           class="cls-1"
+           cx="51.02"
+           cy="45.189999"
+           r="4.1399999"
+           id="circle35"
+           style="fill:url(#linearGradient284)" />
+      </g>
+    </g>
+    <g
+       id="g63">
+      <path
+         class="cls-3"
+         d="m 51.02,57.61 c -2.29,0 -4.14,1.85 -4.14,4.14 v 16.57 c 0,2.29 1.85,4.14 4.14,4.14 2.29,0 4.14,-1.85 4.14,-4.14 V 61.75 c 0,-2.29 -1.85,-4.14 -4.14,-4.14 z"
+         id="path55" />
+      <path
+         class="cls-3"
+         d="m 84.16,57.61 c -2.29,0 -4.14,1.85 -4.14,4.14 v 16.57 c 0,2.29 1.85,4.14 4.14,4.14 2.29,0 4.14,-1.85 4.14,-4.14 V 61.75 c 0,-2.29 -1.85,-4.14 -4.14,-4.14 z"
+         id="path57" />
+      <path
+         class="cls-3"
+         d="m 67.59,41.04 c -2.29,0 -4.14,1.85 -4.14,4.14 v 33.14 c 0,2.29 1.85,4.14 4.14,4.14 2.29,0 4.14,-1.85 4.14,-4.14 V 45.18 c 0,-2.29 -1.85,-4.14 -4.14,-4.14 z"
+         id="path59" />
+      <path
+         class="cls-3"
+         d="m 100.73,41.04 c -2.29,0 -4.14,1.85 -4.14,4.14 v 33.14 c 0,2.29 1.85,4.14 4.14,4.14 2.29,0 4.14,-1.85 4.14,-4.14 V 45.18 c 0,-2.29 -1.85,-4.14 -4.14,-4.14 z"
+         id="path61" />
+    </g>
+  </g>
+</svg>
