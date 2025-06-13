@@ -6,8 +6,12 @@ __pycache__/
 **/*.py[cod]
 **/*$py.class
 
+# Local data files
+**/data/*.csv
+**/data/*.db
+
 # C extensions
-*.so
+*.soeffecient
 
 # Distribution / packaging
 .Python

@@ -3,3 +3,4 @@ dash-iconify==0.1.2
 dash-mantine-components==2.0.0
 pandas==2.3.0
 plotly==6.1.2
+requests==2.32.3
