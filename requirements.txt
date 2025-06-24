@@ -1,6 +1,9 @@
 dash==3.0.4
 dash-iconify==0.1.2
 dash-mantine-components==2.0.0
+matplotlib==3.10.3
+openpyxl==3.1.5
 pandas==2.3.0
 plotly==6.1.2
+pyarrow==20.0.0
 requests==2.32.3
