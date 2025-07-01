@@ -1,0 +1,1081 @@
+[
+  {
+    "code": 1,
+    "description": "FAILURE TO DISPLAY BUS PERMIT",
+    "definition": "Failure of an intercity bus to prominently display a copy of an intercity bus permit.",
+    "fine_amount_manhattan_96st_and_below": [
+      515
+    ],
+    "fine_amount_all_other_areas": [
+      515
+    ]
+  },
+  {
+    "code": 2,
+    "description": "NO OPERATOR NAM/ADD/PH DISPLAY",
+    "definition": "Failure of an intercity bus to properly display the operator's name, address and telephone number.",
+    "fine_amount_manhattan_96st_and_below": [
+      515
+    ],
+    "fine_amount_all_other_areas": [
+      515
+    ]
+  },
+  {
+    "code": 3,
+    "description": "UNAUTHORIZED PASSENGER PICK-UP",
+    "definition": "Intercity bus unauthorized passenger pickup or discharge",
+    "fine_amount_manhattan_96st_and_below": [
+      515
+    ],
+    "fine_amount_all_other_areas": [
+      515
+    ]
+  },
+  {
+    "code": 4,
+    "description": "BUS PARKING IN LOWER MANHATTAN",
+    "definition": "Vehicles parked illegally south of Houston Street in Manhattan in metered spaces reserved for buses from 7am - 7pm daily. Vehicles with bus plate types parked longer than the 3-hour maximum and/or not displaying a DOT-issued bus permit.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 5,
+    "description": "BUS LANE VIOLATION",
+    "definition": "Failure to make a right turn from a bus lane. (Violation amounts are based on violations received in a 12-month period)",
+    "fine_amount_manhattan_96st_and_below": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "fine_amount_all_other_areas": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ]
+  },
+  {
+    "code": 6,
+    "description": "OVERNIGHT TRACTOR TRAILER PKG",
+    "definition": "Parking a tractor-trailer on a residential street between 9pm and 5am.",
+    "fine_amount_manhattan_96st_and_below": [
+      250,
+      500
+    ],
+    "fine_amount_all_other_areas": [
+      250,
+      500
+    ]
+  },
+  {
+    "code": 7,
+    "description": "FAILURE TO STOP AT RED LIGHT",
+    "definition": "Vehicles photographed going through a red light at an intersection",
+    "fine_amount_manhattan_96st_and_below": [
+      50
+    ],
+    "fine_amount_all_other_areas": [
+      50
+    ]
+  },
+  {
+    "code": 8,
+    "description": "IDLING",
+    "definition": "Vehicle idling in a restricted area.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 9,
+    "description": "OBSTRUCTING TRAFFIC/INTERSECT",
+    "definition": "Blocking an Intersection: Obstructing traffic at an intersection also known as \"Blocking the Box\".",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 10,
+    "description": "NO STOPPING-DAY/TIME LIMITS",
+    "definition": "Stopping, standing or parking where a sign, street marking, or traffic control device does not allow stopping.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 11,
+    "description": "NO STANDING-HOTEL LOADING",
+    "definition": "Hotel Loading/Unloading: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 12,
+    "description": "MOBILE BUS LANE VIOLATION",
+    "definition": "Mobile MTA bus lane violation. (Violation amounts are based on violations received in a 12-month period)",
+    "fine_amount_manhattan_96st_and_below": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "fine_amount_all_other_areas": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ]
+  },
+  {
+    "code": 13,
+    "description": "NO STANDING-TAXI STAND",
+    "definition": "Taxi Stand: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 14,
+    "description": "NO STANDING-DAY/TIME LIMITS",
+    "definition": "General No Standing: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 15,
+    "description": "NO STANDING-OFF-STREET LOT",
+    "definition": "Mobile MTA double parking violation. (Violation amounts are based on violations received within a 12-month period.)",
+    "fine_amount_manhattan_96st_and_below": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "fine_amount_all_other_areas": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ]
+  },
+  {
+    "code": 16,
+    "description": "NO STANDING-EXC. TRUCK LOADING",
+    "definition": "Truck Loading/Unloading: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 17,
+    "description": "NO STANDING-EXC. AUTH. VEHICLE",
+    "definition": "Authorized Vehicles Only: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 18,
+    "description": "NO STANDING-BUS LANE",
+    "definition": "Bus Lane: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 19,
+    "description": "NO STANDING-BUS STOP",
+    "definition": "Bus Stop: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 20,
+    "description": "NO PARKING-DAY/TIME LIMITS",
+    "definition": "General No Parking: No parking where parking is not allowed by sign, street marking or traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      60
+    ]
+  },
+  {
+    "code": 21,
+    "description": "NO PARKING-STREET CLEANING",
+    "definition": "Street Cleaning: No parking where parking is not allowed by sign, street marking or traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 22,
+    "description": "NO STAND TAXI/FHV RELIEF STAND",
+    "definition": "Taxi/FHV Relief Stand: Standing or parking where standing is not allowed by sign, street marking or; traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 23,
+    "description": "NO PARKING-TAXI STAND",
+    "definition": "Taxi Stand: No parking where parking is not allowed by sign, street marking or traffic control device. Please note that due to revisions to the Traffic Rules which took effect August 1, 2018, this violation is no longer issued.",
+    "fine_amount_manhattan_96st_and_below": [],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 24,
+    "description": "NO PARKING-EXC. AUTH. VEHICLE",
+    "definition": "Authorized Vehicles Only: No parking where parking is not allowed by sign, street marking or traffic control device. Please note that due to revisions to the Traffic Rules which took effect August 1, 2018, this violation is no longer issued.",
+    "fine_amount_manhattan_96st_and_below": [],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 25,
+    "description": "NO STANDING-COMMUTER VAN STOP",
+    "definition": "Standing at a commuter van stop, other than temporarily for the purpose of quickly picking up or dropping off passengers.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 26,
+    "description": "NO STANDING-FOR HIRE VEH STND",
+    "definition": "Standing at a for-hire vehicle stand, other than temporarily for the purpose of quickly picking up or dropping off passengers.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 27,
+    "description": "NO PARKING-EXC. DSBLTY PERMIT",
+    "definition": "No parking in a zone reserved for people with disabilities (off-street only) where parking is not allowed by sign, street marking or traffic control device (Note: Includes a $30 New York State Criminal Justice surcharge.)",
+    "fine_amount_manhattan_96st_and_below": [
+      180
+    ],
+    "fine_amount_all_other_areas": [
+      180
+    ]
+  },
+  {
+    "code": 28,
+    "description": "OVERTIME STANDING DP",
+    "definition": "Overtime standing (diplomat)",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 29,
+    "description": "ALTERING INTERCITY BUS PERMIT",
+    "definition": "Altering an intercity bus permit",
+    "fine_amount_manhattan_96st_and_below": [
+      515
+    ],
+    "fine_amount_all_other_areas": [
+      515
+    ]
+  },
+  {
+    "code": 30,
+    "description": "NO STOP/STANDNG EXCEPT PAS P/U",
+    "definition": "Stopping or standing by an intercity bus in its assigned on-street bus stop location other than when actively engaged in the pick-up or discharge of its passengers",
+    "fine_amount_manhattan_96st_and_below": [
+      515
+    ],
+    "fine_amount_all_other_areas": [
+      515
+    ]
+  },
+  {
+    "code": 31,
+    "description": "NO STANDING-COMM METER ZONE",
+    "definition": "Standing of a non-commercial vehicle in a commercial metered zone.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 32,
+    "description": "OT PARKING-MISSING/BROKEN METR",
+    "definition": "Parking at a broken or missing meter for longer than the maximum time permitted.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 33,
+    "description": "MISUSE PARKING PERMIT",
+    "definition": "Misuse of agency authorized parking permit.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 34,
+    "description": "EXPIRED METER",
+    "definition": "Parking in a metered space where the meter works and the time has ended. Drivers get a 5-minute grace period prior to the purchase time and past the expiration time on parking meter receipts.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 35,
+    "description": "SELLING/OFFERING MCHNDSE-METER",
+    "definition": "Parking in a meter space for the purpose of displaying, selling, storing, or offering goods for sale.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 36,
+    "description": "PHTO SCHOOL ZN SPEED VIOLATION",
+    "definition": "Exceeding the posted speed limit in or near a designated school zone.",
+    "fine_amount_manhattan_96st_and_below": [
+      50
+    ],
+    "fine_amount_all_other_areas": [
+      50
+    ]
+  },
+  {
+    "code": 37,
+    "description": "EXPIRED MUNI METER",
+    "definition": "Parking Meter: Parking in excess of the allowed time. Drivers get a 5-minute grace period prior to the purchase time and past the expiration time on parking meter receipts.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 38,
+    "description": "FAIL TO DSPLY MUNI METER RECPT",
+    "definition": "Parking Meter: Failing to show a receipt or tag in the windshield. Drivers get a 5-minute grace period prior to the purchase time and past the expiration time on parking meter receipts.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 39,
+    "description": "OVERTIME PKG-TIME LIMIT POSTED",
+    "definition": "Parking for longer than the maximum time permitted by sign, street marking or traffic control device.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      60
+    ]
+  },
+  {
+    "code": 40,
+    "description": "FIRE HYDRANT",
+    "definition": "Stopping, standing or parking closer than 15 feet of a fire hydrant. Between sunrise and sunset, a passenger vehicle may stand alongside a fire hydrant as long as a driver remains behind the wheel and is ready to move the vehicle if required to do so.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 41,
+    "description": "MISCELLANEOUS",
+    "definition": "No information available",
+    "fine_amount_manhattan_96st_and_below": [],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 42,
+    "description": "EXPIRED MUNI MTR-COMM MTR ZN",
+    "definition": "Parking in a parking meter space in a commercial metered zone in which that Muni Meter is working and indicates the time has ended.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 43,
+    "description": "EXPIRED METER-COMM METER ZONE",
+    "definition": "Mobile MTA bus stop violation. (Violation amounts are based on violations received within a 12-month period.) Note: The definition, violation code, and fine amounts may no longer apply to 'EXPIRED METER-COMM METER ZONE'.",
+    "fine_amount_manhattan_96st_and_below": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ],
+    "fine_amount_all_other_areas": [
+      50,
+      100,
+      150,
+      200,
+      250
+    ]
+  },
+  {
+    "code": 44,
+    "description": "PKG IN EXC. OF LIM-COMM MTR ZN",
+    "definition": "Parking in a commercial metered zone for longer than the maximum time allowed.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 45,
+    "description": "TRAFFIC LANE",
+    "definition": "Stopping, standing or parking in a traffic lane; or if a vehicle extends more than 8 feet from the nearest curb, blocking traffic.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 46,
+    "description": "DOUBLE PARKING",
+    "definition": "Standing or parking on the roadway side of a vehicle stopped, standing or parked at the curb; in other words also known as \"double parking\". However, a person may stand a Commercial Vehicle alongside a vehicle parked at the curb at such locations and during such hours that stopping, standing and parking is allowed when quickly making pickups, deliveries or service calls. This is allowed if there is no parking space or marked loading zone on either side of the street within 100 feet. \"Double parking\" any type of vehicle is not allowed in Midtown Manhattan (the area from 14th Street to 60th Street, between First Avenue and Twelfth Avenue inclusive). Midtown double parking is not allowed between 7am and 7pm daily except Sundays. (Read Code 47)",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 47,
+    "description": "DOUBLE PARKING-MIDTOWN COMML",
+    "definition": "Stopping, standing or parking a vehicle in Midtown Manhattan (the area from 14th Street to 60th Street, between First Avenue and Twelfth Avenue) other than parallel or close to the curb.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 48,
+    "description": "BIKE LANE",
+    "definition": "Stopping, standing or parking within a marked bicycle lane.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 49,
+    "description": "EXCAVATION-VEHICLE OBSTR TRAFF",
+    "definition": "Stopping, standing or parking alongside or opposite any street construction or obstruction and thereby blocking traffic.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 50,
+    "description": "CROSSWALK",
+    "definition": "Stopping, standing or parking in a crosswalk. Note: Crosswalks are not always identified by painted street markings.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 51,
+    "description": "SIDEWALK",
+    "definition": "Stopping, standing or parking on a sidewalk.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 52,
+    "description": "INTERSECTION",
+    "definition": "Stopping, standing or parking within an intersection.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 53,
+    "description": "SAFETY ZONE",
+    "definition": "Standing or parking in a safety zone, between a safety zone and the nearest curb, or within 30 feet of points on the curb immediately opposite the ends of a safety zone.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 54,
+    "description": "PCKP DSCHRGE IN PRHBTD ZONE",
+    "definition": "Picking up or discharging a passenger(s) by a taxi, commuter van or for-hire vehicle within a pedestrian crosswalk, within an intersection, alongside or opposite a street excavation while blocking traffic, in a traffic lane, where stopping is prohibited, with a bicycle lane or within a horse-drawn carriage boarding area.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 55,
+    "description": "ELEVATED/DIVIDED HIGHWAY/TUNNL",
+    "definition": "Stopping, standing or parking within a highway tunnel or on a raised or controlled access roadway.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 56,
+    "description": "DIVIDED HIGHWAY",
+    "definition": "Stopping, standing or parking alongside a barrier or divided highway unless permitted by sign.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 57,
+    "description": "WEIGH IN MOTION VIOLATION",
+    "definition": "Overweight vehicle detected by the weigh-in-motion (WIM) violation monitoring system located on the portion of Interstate Route 278 known as the Brooklyn-Queens Expressway, from the vicinity of Atlantic Avenue to the vicinity of Sands Street in Kings County (Brooklyn), New York.",
+    "fine_amount_manhattan_96st_and_below": [],
+    "fine_amount_all_other_areas": [
+      650
+    ]
+  },
+  {
+    "code": 58,
+    "description": "MARGINAL STREET/WATER FRONT",
+    "definition": "Parking a vehicle on a marginal street or waterfront i.e. any street, road, place, area or way that connects or runs along waterfront property. Parking on a marginal street or waterfront is permitted if authorized by posted sign.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 59,
+    "description": "ANGLE PARKING-COMM VEHICLE",
+    "definition": "Standing or parking at an angle to the curb, except where allowed by rule or sign. Where angle parking is not authorized by a sign, a Commercial Vehicle may stand or park at an angle only for loading or unloading and if it leaves enough space for traffic flow.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 60,
+    "description": "ANGLE PARKING",
+    "definition": "Standing or parking at an angle to the curb, except where authorized by rule or sign.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 61,
+    "description": "WRONG WAY",
+    "definition": "Except where angle parking is allowed, stopping, standing or parking other than parallel to curb or edge of roadway. Or, parking opposite the direction of traffic.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 62,
+    "description": "BEYOND MARKED SPACE",
+    "definition": "Standing or parking a vehicle beyond markings on the curb or the pavement of a street which marks a parking space, except when a vehicle is too large to fit in that \"marked\" parking space. Where a vehicle is too large, it shall be parked with its front bumper at the front of the space and the rear bumper extending as little as possible into the next space.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 63,
+    "description": "NIGHTTIME STD/ PKG IN A PARK",
+    "definition": "Standing or parking a vehicle in any park between one-half hour after sunset and one-half hour before sunrise, except at places allowed for the parking of vehicles.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 64,
+    "description": "NO STANDING EXCP D/S",
+    "definition": "No standing except consul / diplomat plates with Dept. of State decals only.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 65,
+    "description": "OVERTIME STDG D/S",
+    "definition": "Overtime standing consul / diplomat vehicles 30-minute limit D decals only.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 66,
+    "description": "DETACHED TRAILER",
+    "definition": "Parking a trailer or semi-trailer which is not attached to a motor vehicle used for towing it, unless loading or unloading at an off-street platform.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 67,
+    "description": "PEDESTRIAN RAMP",
+    "definition": "Parking in front of a pedestrian ramp",
+    "fine_amount_manhattan_96st_and_below": [
+      165
+    ],
+    "fine_amount_all_other_areas": [
+      165
+    ]
+  },
+  {
+    "code": 68,
+    "description": "NON-COMPLIANCE W/ POSTED SIGN",
+    "definition": "Not parking as marked on a posted sign",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      60
+    ]
+  },
+  {
+    "code": 69,
+    "description": "FAIL TO DISP. MUNI METER RECPT",
+    "definition": "Failing to show a parking meter receipt, commercial meter zone.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      35
+    ]
+  },
+  {
+    "code": 70,
+    "description": "REG. STICKER-EXPIRED/MISSING",
+    "definition": "Standing or parking a vehicle without showing a current New York registration sticker.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 71,
+    "description": "INSP. STICKER-EXPIRED/MISSING",
+    "definition": "Standing or parking a vehicle without showing a current New York inspection sticker.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 72,
+    "description": "INSP STICKER-MUTILATED/C'FEIT",
+    "definition": "Standing or parking a vehicle with NY Plates and showing a damaged or fake inspection certificate.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 73,
+    "description": "REG STICKER-MUTILATED/C'FEIT",
+    "definition": "Standing or parking a vehicle showing an expired, damaged, void, fake, or incorrect registration sticker.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 74,
+    "description": "FRONT OR BACK PLATE MISSING",
+    "definition": "Standing or parking a vehicle without properly showing its current plates on the outside of the vehicle attached tightly not more than 48, or less than 12, inches from the ground, clean, not covered by glass or plastic, with nothing preventing it from being read clearly.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 75,
+    "description": "NO MATCH-PLATE/STICKER",
+    "definition": "Standing or parking a vehicle in which the New York License Plate number and/or the actual description of the vehicle does not match the information on the registration sticker.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 76,
+    "description": "VIN OBSCURED",
+    "definition": "Standing or parking a vehicle that has the vehicle identification number obscured in any manner.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 77,
+    "description": "PARKED BUS-EXC. DESIG. AREA",
+    "definition": "Parking a bus, unless allowed by signs. A charter bus may park where parking is permitted at its point of origin or destination. A school bus may park in front of and within the building lines of a school.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 78,
+    "description": "NGHT PKG ON RESID STR-COMM VEH",
+    "definition": "Parking a Commercial Vehicle on a residential street between 9pm and 5am unless doing business within 3 blocks. Parking is allowed during this time if the vehicle is owned or operated by a gas or oil supplier or maintenance company or by any public utility.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 79,
+    "description": "UNAUTHORIZED BUS LAYOVER",
+    "definition": "For a bus without passengers, waiting at a curb or other street location i.e., a layover; with passengers, waiting at a curb or other street location for more than five minutes, except in locations allowed by sign or by the Commissioner in writing.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 80,
+    "description": "MISSING EQUIPMENT",
+    "definition": "Standing or parking a vehicle without head lamps, rear lamps, reflectors or other required equipment.",
+    "fine_amount_manhattan_96st_and_below": [
+      60
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 81,
+    "description": "NO STANDING EXCP DP",
+    "definition": "No standing except diplomat",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 82,
+    "description": "COMML PLATES-UNALTERED VEHICLE",
+    "definition": "Standing or parking a Commercial Vehicle unless all seats, except the front seats, and rear seat equipment removed. The name and address of the owner must be on the registration certificate plainly marked on both sides of the vehicle in letters and numerals not less than 3 inches in height. (Vehicles with Commercial Plates are considered to be Commercial Vehicles and must be altered accordingly.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 83,
+    "description": "IMPROPER REGISTRATION",
+    "definition": "Standing or parking a vehicle displaying a New York license plate which is not properly registered.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 84,
+    "description": "PLTFRM LFTS LWRD POS COMM VEH",
+    "definition": "Parking a Commercial Vehicle on any city street with its platform lift in the lowered position while no one is with the vehicle.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 85,
+    "description": "STORAGE-3HR COMMERCIAL",
+    "definition": "Parking a Commercial Vehicle more than 3 hours, where parking is allowed.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 86,
+    "description": "MIDTOWN PKG OR STD-3HR LIMIT",
+    "definition": "Standing or parking a vehicle to make pickups, deliveries or service calls for more than 3 hours, unless allowed by posted signs, between 7am and 7pm, except Sundays, in Manhattan from 14th to 60th Streets and First to Eighth Avenues.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 87,
+    "description": "FRAUDULENT USE PARKING PERMIT",
+    "definition": "Fraudulent use of agency authorized parking permit.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 88,
+    "description": "UNALTERED COMM VEH-NME/ADDRESS",
+    "definition": "Parking or standing a commercial vehicle that hasn't been permanently changed for business use (like removing back seats) or doesn't clearly display the business name and address on both sides in large letters (at least 3 inches tall). Note: Manually entered as violation code #88 was not listed at time of writing.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": [
+      115
+    ]
+  },
+  {
+    "code": 89,
+    "description": "NO STD(EXC TRKS/GMTDST NO-TRK)",
+    "definition": "Standing or parking a vehicle in the Garment District (in Manhattan, from 35th Street to 41st Street, between the Avenues of America and Eighth Avenue) between the hours of 7am and 7pm. However, a Commercial Vehicle which is a truck or a van can park temporarily (up to a maximum of 3 hours) while making a pickup, delivery or service call.",
+    "fine_amount_manhattan_96st_and_below": [
+      115
+    ],
+    "fine_amount_all_other_areas": []
+  },
+  {
+    "code": 90,
+    "description": "VEH-SALE/WSHNG/RPRNG/DRIVEWAY",
+    "definition": "Parking in front of a public or private driveway, and/or in order to sell, wash, grease, or repair a vehicle. Note: Manually entered as violation code #90 was not listed at time of writing.",
+    "fine_amount_manhattan_96st_and_below": [
+      40
+    ],
+    "fine_amount_all_other_areas": [
+      25
+    ]
+  },
+  {
+    "code": 91,
+    "description": "VEHICLE FOR SALE(DEALERS ONLY)",
+    "definition": "Parking in order to sell a vehicle by a person who regularly sells vehicles.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 92,
+    "description": "WASH/REPAIR VEHCL-REPAIR ONLY",
+    "definition": "Parking in order to wash, grease, or repair a vehicle by a person who regularly repairs vehicles.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 93,
+    "description": "REMOVE/REPLACE FLAT TIRE",
+    "definition": "Stopping, standing or parking on paved roadway to change a flat tire, unless permitted by posted sign.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      65
+    ]
+  },
+  {
+    "code": 96,
+    "description": "RAILROAD CROSSING",
+    "definition": "Standing or parking within 50 feet of the nearest rail of a railroad crossing.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 97,
+    "description": "VACANT LOT",
+    "definition": "Parking in a vacant lot. A vehicle may be parked on a vacant lot having a municipally authorized driveway upon written permission of the owner.",
+    "fine_amount_manhattan_96st_and_below": [
+      65
+    ],
+    "fine_amount_all_other_areas": [
+      45
+    ]
+  },
+  {
+    "code": 98,
+    "description": "OBSTRUCTING DRIVEWAY",
+    "definition": "Standing or parking in front of a public or private driveway. The owner or renter of a lot accessed by a private driveway may park a passenger vehicle registered to him / her at that address in front of the driveway provided the lot does not contain more than 2 dwelling units and that parking does not violate any other rule or restriction.",
+    "fine_amount_manhattan_96st_and_below": [
+      95
+    ],
+    "fine_amount_all_other_areas": [
+      95
+    ]
+  },
+  {
+    "code": 99,
+    "description": "OTHER",
+    "definition": "All other parking, standing or stopping violations.",
+    "fine_amount_manhattan_96st_and_below": [
+      105
+    ],
+    "fine_amount_all_other_areas": [
+      105
+    ]
+  }
+]
